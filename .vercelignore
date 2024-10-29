@@ -12,3 +12,5 @@ package.json
 .jekyll-cache
 vendor
 .vercel
+vercel
+0000-00-00-welcome-to-jekyll.markdown.erb
