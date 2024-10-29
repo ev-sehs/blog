@@ -2,7 +2,7 @@
 layout: post
 title:  Monthly Student Fund Meeting - 10/28/24
 categories: [Meeting,Stock Analysis,Portfolio]
-excerpt: In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.
+excerpt: During the recent Monthly Student Fund meeting, it was noted that our investments have underperformed relative to the market. Key assets include Microsoft, which remains our largest investment, while Six Flags is losing money and may be divested. 
 ---
 
 **Performance Overview**
