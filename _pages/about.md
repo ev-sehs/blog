@@ -4,26 +4,24 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+### Our Mission
+EagleVentures is dedicated to empowering students in business and entrepreneurship by creating a dynamic, business-oriented zone where creativity meets opportunity. Our club serves as a platform for aspiring entrepreneurs to develop their skills and bring their innovative ideas to life.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+### What We Do
+At EagleVentures, we focus on several key areas:
 
-## Features
+- **Workshops and Seminars**: We host regular workshops featuring industry experts who share insights on various business topics, from marketing strategies to financial management.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+- **Business Competitions**: We actively participate in various business competitions, allowing our members to showcase their ideas and gain valuable experience while competing against peers.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+- **Collaborative Projects**: Members can collaborate on projects that foster teamwork and creativity, allowing them to apply what they learn in a practical setting.
+
+- **Stock Market Analysis**: We analyze the stock market using real-time data, making informed decisions on investments for our student-managed fund. This hands-on experience provides invaluable insights into portfolio management and financial decision-making.
+
+### Why Join Us?
+Joining EagleVentures means being part of a supportive community that encourages growth and innovation. Whether you're just starting out or looking to refine your skills, our club provides the resources and environment needed to thrive in the world of business.
+
+### Get Involved
+We invite all students interested in business and entrepreneurship to join us! Together, we can create a vibrant ecosystem that nurtures ideas and fosters success. 
+
+Connect with us today and take your first step towards becoming a successful entrepreneur!

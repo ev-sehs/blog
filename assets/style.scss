@@ -148,7 +148,7 @@ table tr td :last-child {
   border-radius: 4px;
   box-sizing: border-box;
   font-size: 18px;
-  background-color: #fff3ff;
+  background-color: $white;
 }
 
 .share-box {
@@ -279,8 +279,8 @@ p > img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 90px;
+  height: 90px;
   margin-right: 15px;
 
   @include mobile {
@@ -291,8 +291,8 @@ p > img {
 
   img {
     border-radius: 5px;
-    width: 70px;
-    height: 70px;
+    width: 90px;
+    height: 90px;
     object-fit: cover;
   }
 }
@@ -418,12 +418,16 @@ nav {
   bottom: 0;
   width: 100%;
   height: 89px;
-  background-color: $lightGray;
+  background-color: $white;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.border-top {
+  border-top: solid 1px #eee;
 }
 
 body:after {
