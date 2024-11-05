@@ -1,0 +1,81 @@
+---
+layout: post
+title:  Regarding Semiconductors
+categories: [Updates]
+excerpt: During our recent meeting, we discussed various semiconductor stocks, including Nvidia (NVDA), Taiwan Semiconductor Manufacturing Company (TSMC), Qualcomm (QCOM), and Intel (INTC).
+---
+
+# Meeting Summary - November 5, 2024
+
+## Today's Agenda
+- Discuss Semiconductor Stocks:
+  - Nvidia (NVDA)
+  - Taiwan Semiconductor Manufacturing Company (TSMC)
+  - Qualcomm (QCOM)
+  - Intel (INTC)
+- Hear from the Bee Guys (didn’t happen)
+- Discuss future plans about endeavors with Mrs. Hardin
+- Discuss how we can include the Beekeeping Club in our projects
+- Future events:
+  - Investor extraordinaire Mr. Barkley speaking on November 21
+
+## Semiconductor Presentations
+
+### Nvidia (NVDA) - Presented by Nathan Wellman
+- **Company Profile:**
+  - Designs and sells GPUs and chip systems.
+  - Nvidia's Compute and Networking business segment, which includes artificial intelligence (AI), is the company's biggest revenue generator.
+- **History:**
+  - Founded in 1993, evolved from 3D graphics to creating the GPU and CUDA.
+  - Only one CEO, Jensen Huang.
+- **Key Measures:**
+  - Last 52 Weeks Revenue: $96.31B (+122%)
+  - Next Earnings Date: November 21, 2024
+  - Current Dividend %: 0.03%
+  - L13 EPS: $0.68
+  - EPS Multiple: 2.13
+- **Trends:**
+  - Semiconductors projected to be up by 7.9% by 2030.
+  - Nvidia and Sherwin Williams to replace Intel and Dow Inc. in the Dow Jones Stock Index on November 8, 2024.
+
+### Taiwan Semiconductor Manufacturing Company (TSMC) - Presented by Josh Ridenour
+- **Company Profile:**
+  - Based in Taiwan, manufactures semiconductors for companies such as Apple, Nvidia, and Qualcomm.
+- **Key Measures:**
+  - Last 52 Weeks Revenue: $83.81B (+20%)
+  - Next Earnings Date: January 16, 2025
+  - Current Dividend %: 1.3%
+- **Trends:**
+  - Total Industry Market Cap of $8.225 trillion (7.4% of Global Market).
+  - Projected for a 13% increase in sales to $588 billion in 2024.
+
+### Qualcomm (QCOM) - Presented by James Sellars
+- **Company Profile:**
+  - Works in chips and specializes in 5G technology.
+- **Key Measures:**
+  - Last 52 Weeks Revenue: $230.63B
+  - Next Earnings Date: November 6, 2024
+- **Trends:**
+  - Recent performance +165.18% YTD.
+  
+### Intel (INTC) - Presented by Sam Uva
+- **Company Profile:**
+  - Founded on July 18, 1968; a major player in semiconductor circuits.
+- **Key Measures:**
+  - Last 52 Weeks Revenue: $63.95B (+13%)
+  - Next Earnings Date: January 15, 2025
+- **Trends:**
+  - Market cap of $20.35 trillion.
+
+## Final Decisions
+- **Nvidia:** Buy now; about $6,000 for approximately 30 shares by unanimous vote.
+- **TSMC:** Watch; revisit after the election.
+- **Intel:** Do not buy.
+
+## Further Suggestions
+- Consider buying a semiconductor ETF.
+- Investigate energy or automobile stocks after the election:
+   - Assigned team members for research:
+     - Josh
+     - Henry
+     - Stephen
