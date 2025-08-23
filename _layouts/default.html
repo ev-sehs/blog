@@ -23,7 +23,10 @@
             <!--<a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
           -->
             <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <div class="flex-header">
+                <img src="{{ site.baseurl }}/images/logo-square.png" alt="" style="width: 30px; height: 30px;">
+                <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              </div>
               <p class="site-description">{{ site.description }}</p> 
             </div>
 
@@ -48,7 +51,9 @@
           <div class="border-top"></div>
           <footer class="footer">
             <!--{% include svg-icons.html %}-->
-            <img src="{{ site.baseurl }}/images/logo-square.png" alt="" style="width: 25px; height: 25px;">
+            <div class="flex">
+              <p>Created by <b>William Nowak</b> w/ <b>Jekyll</b> (reverie)</p>
+            </div>
           </footer>
         </div>
       </div>

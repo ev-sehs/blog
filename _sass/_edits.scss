@@ -1,0 +1,15 @@
+@mixin flex {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.flex {
+    @include flex;
+
+    justify-content: center;
+}
+
+.flex-header {
+    @include flex;
+}
