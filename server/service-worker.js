@@ -16,11 +16,10 @@ switch(args[0]) {
         break
     case "publish":
         (async () => {
-            const commitMsg = args.slice(1).join(' ')
             await runCommand('jekyll', ['build'])
             await runCommand('git', ['add', '.'])
             await runCommand('git', ['commit'])
-            await runCommand('git', ['push'])
+            await runCommand('git', ['push', 'origin', 'main'])
         })().catch(err => {
             console.error('Unhandled error:', err)
             process.exit(1)
