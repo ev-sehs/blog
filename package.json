@@ -1,0 +1,17 @@
+{
+  "name": "eagleventures-blog",
+  "version": "1.0.0",
+  "description": "A blog for St. Edward HS's investment Club",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "node ./server/service-worker.js test",
+    "publish": "node ./server/service-worker.js publish"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.3.1",
+    "launch-editor": "^2.11.1"
+  }
+}
